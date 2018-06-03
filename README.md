@@ -1,8 +1,8 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 09: Vanilla REST API w/ Persistence
 
 
-Travis link :
-Heroku link: 
+Travis link : https://travis-ci.com/khalahm253/09-persistence
+Heroku link: https://lab-09-khalil.herokuapp.com/
 
 
 *  I used promise constructs to manage asynchronous code
